@@ -1,2 +1,8 @@
+*.pt
+*.mp4
+*.avi
+*.docx
 __pycache__/
-virtualenv
+.venv/
+Inference_data/
+runs/
