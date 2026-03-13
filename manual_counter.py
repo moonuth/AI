@@ -7,7 +7,7 @@ import os
 
 def main():
     path_to_model = os.path.join(os.getcwd(), 'Potato_model_best_weights.pt')
-    path_to_video = os.path.join(os.getcwd(), 'Inference_data', 'potato.mp4')
+    path_to_video = os.path.join(os.getcwd(), 'Inference_data', 'ooo.mp4')
 
 
     source = cv2.VideoCapture(path_to_video)

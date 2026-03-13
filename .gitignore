@@ -6,3 +6,5 @@ __pycache__/
 .venv/
 Inference_data/
 runs/
+*.jpg
+!frame_1280x720.jpg
