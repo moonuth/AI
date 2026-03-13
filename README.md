@@ -2,7 +2,7 @@
 
 Hệ thống đếm khoai tây theo thời gian thực trên băng chuyền, sử dụng AI phát hiện vật thể kết hợp thuật toán theo dõi xác suất.
 
-<img width="1356" height="699" alt="image" src="demo_result.png" />
+<img width="1356" height="699" alt="image" src="D:\Nam3\AnNinhMang\github_dection_potato\Potato-Counter\demo_result.png" />
 
 ---
 
