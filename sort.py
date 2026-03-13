@@ -19,10 +19,8 @@ from __future__ import print_function
 
 import os
 import numpy as np
-import matplotlib
-matplotlib.use('TkAgg')
-import matplotlib.pyplot as plt
-import matplotlib.patches as patches
+# Đã xóa matplotlib vì gây lỗi giao diện trên Colab (Headless server)
+# Không ảnh hưởng đến logic core của SORT
 from skimage import io
 
 import glob
